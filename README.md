@@ -1,5 +1,5 @@
 
-# Build your own world! - 2d Tile Game
+# Build your own world! - 2D tile game
 
 Designed and implemented a world generator engine that takes in a specific seed number to randomly generate an explorable, 2D tile-based world using Java Object Oriented Programming.
 
